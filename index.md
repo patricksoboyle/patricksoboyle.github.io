@@ -22,7 +22,11 @@ I took apart and analyzed the inner-workings of a disposable camera and its desi
 
 [Reverse Engineering Report](https://github.com/patricksoboyle/MiscProjects/blob/master/MechanicalEngineeringProjects/MechanicalENgineeringProjects%20(1).pdf)
 
-### Misc. Java Programs
+### Misc. Programs
+
+RunnerCatcher: For our final CPS assignment, we had to code a simplified game of tag and then analyze it from a mathematical standpoint. The analysis begins in Section 4.
+
+[RunnerCatcher Report](https://github.com/patricksoboyle/MiscProjects/blob/master/RunnerCatcher.pdf)
 
 DungeonGame: HelsinkJavaMOOC exercise. It's a simple game where you move around and capture vampires.
 
@@ -30,9 +34,9 @@ BSTrecursion: Coded methods for binary search tree implementation to count leave
 
 Sudoku Backtracking: Sudoku puzzle solver. Application of the backtracking algorithm concept
 
-Guessing Game: BST application exercise. User answers yes/no questions, and the program guesses what animal the user is thinking of. If the animal is not in system, the given question used to differentiate it is stored.
+Guessing Game: BST application exercise. User answers yes/no questions, and the program guesses what animal the user is thinking of. If the animal is not in system, the given question used to differentiate it is stored.f
 
-TrainProblem: Similar to the pancake sorting problem. I made algorithms for moving train cars between the main track and 2 auxillary tracks to sort them based by number.
+TrainProblem: Similar to the pancake sorting problem. I made algorithms for moving train cars between the main track and 2 auxiliary tracks to sort them based by number.
 
 Histogram: A simple histogram generator with a graphical output. I made a clever algorithm for sorting data points into the different "bins" using integer division instead of an if/else structure.
 
