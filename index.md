@@ -4,6 +4,7 @@
 
 ### Parking Project
 **Solving community parking issues. Diagrams + picture of display in**
+
 [Work in progress paper](https://github.com/patricksoboyle/MiscProjects/blob/master/ACM_Car_Counting_Paper.pdf)
 
 ### Survey of Cloud
@@ -14,6 +15,7 @@ My introduction to research.
 
 **Plumbing System Designer! Based on actual fluid mechanics 
 Section 2 of report- Overview + Pictures!**
+
 [Final Report](https://github.com/patricksoboyle/FluidMechMathematica/blob/master/FludMechMathematica/NegronO'BoyleFinalReport.pdf)
 
 ### Gold Ball Juggler Project & Reverse Engineering (Mechanical Engineering Team Projects)
