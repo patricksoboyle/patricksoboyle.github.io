@@ -1,6 +1,6 @@
 ## CS & Engineering Projects
 
-Doing a quick college app review? Read the bold
+Doing a quick college app review? Read the **bold
 
 ### Parking Project
 **Solving community parking issues. Diagrams + picture of display in
