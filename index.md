@@ -3,7 +3,7 @@
 **~30 sec review: Scim pictures in Parking Project paper and Section 2 of Fluid Mechanics Report**
 
 ### Parking Project
-**Solving community parking issues. Diagrams + picture of display in**
+**Solving community parking issues. Diagrams + program display in paper
 
 [Work in progress paper](https://github.com/patricksoboyle/MiscProjects/blob/master/ACM_Car_Counting_Paper.pdf)
 
