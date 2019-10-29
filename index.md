@@ -20,7 +20,7 @@ Section 2 of report "Project Description"- Overview + Pictures!**
 
 ### Gold Ball Juggler Project & Reverse Engineering (Mechanical Engineering Team Projects)
 
-Juggling golf balls in hoops 2.5m off the ground. 
+Made device for juggling golf balls through hoops 2.5m off the ground. 
 
 [Golf Ball Juggler Docs](https://github.com/patricksoboyle/MiscProjects/blob/master/MechanicalEngineeringProjects/MechanicalENgineeringProjects%20(2).pdf)
 
