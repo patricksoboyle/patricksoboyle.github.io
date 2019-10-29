@@ -3,7 +3,7 @@
 Doing a quick college app review? Read the bold 
 
 ### Parking Project
-**Solving community parking issues. Diagrams + picture of display in **
+**Solving community parking issues. Diagrams + picture of display in
 [Work in progress paper](https://github.com/patricksoboyle/MiscProjects/blob/master/ACM_Car_Counting_Paper.pdf)
 
 ### Survey of Cloud
