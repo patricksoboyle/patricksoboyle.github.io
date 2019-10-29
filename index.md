@@ -3,7 +3,7 @@
 Doing a quick college app review? Read the bold
 
 ### Parking Project
-_**Solving community parking issues. Diagrams + picture of display in
+**Solving community parking issues. Diagrams + picture of display in
 [Work in progress paper](https://github.com/patricksoboyle/MiscProjects/blob/master/ACM_Car_Counting_Paper.pdf)
 
 ### Survey of Cloud
@@ -12,7 +12,7 @@ My introduction to research.
 
 ### Fluid Mechanics Simulation
 
-_**Plumbing System Designer! Based on actual fluid mechanics 
+**Plumbing System Designer! Based on actual fluid mechanics 
 Section 2 of report- Overview + Pictures!**
 [Final Report](https://github.com/patricksoboyle/FluidMechMathematica/blob/master/FludMechMathematica/NegronO'BoyleFinalReport.pdf)
 
