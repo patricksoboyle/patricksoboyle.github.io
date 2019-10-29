@@ -14,7 +14,7 @@ My introduction to research.
 ### Fluid Mechanics Simulation
 
 **Plumbing System Designer! Based on actual fluid mechanics 
-Section 2 of report- Overview + Pictures!**
+Section 2 of report "Project Description"- Overview + Pictures!**
 
 [Final Report](https://github.com/patricksoboyle/FluidMechMathematica/blob/master/FludMechMathematica/NegronO'BoyleFinalReport.pdf)
 
