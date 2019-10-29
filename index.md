@@ -1,6 +1,6 @@
 ## CS & Engineering Projects
 
-Doing a quick college app review? Read the **bold**
+**~30 sec review: Scim pictures in Parking Project paper and Section 2 of Fluid Mechanics Report**
 
 ### Parking Project
 **Solving community parking issues. Diagrams + picture of display in**
