@@ -1,9 +1,7 @@
 ## CS & Engineering Projects
 
-**~30 sec review: Scim pictures in Parking Project paper and Section 2 of Fluid Mechanics Report**
-
 ### Parking Project
-**Solving community parking issues. Diagrams + program display in paper**
+**Solving community parking issues. Diagrams & program display in paper**
 
 [Work in progress paper](https://github.com/patricksoboyle/MiscProjects/blob/master/ACM_Car_Counting_Paper.pdf)
 
@@ -13,14 +11,14 @@ My introduction to research.
 
 ### Fluid Mechanics Simulation
 
-**Plumbing System Designer! Based on actual fluid mechanics 
-Section 2 of report "Project Description"- Overview + Pictures!**
+**Plumbing System Designer! Based on actual fluid mechanics. 
+Section 2 of report "Project Description" provides overview and pictures.**
 
 [Final Report](https://github.com/patricksoboyle/FluidMechMathematica/blob/master/FludMechMathematica/NegronO'BoyleFinalReport.pdf)
 
 ### Gold Ball Juggler Project & Reverse Engineering (Mechanical Engineering Team Projects)
 
-Made device for juggling golf balls through hoops 2.5m off the ground. 
+Made device for juggling golf balls through hoops 2.5 meters off the ground. 
 
 [Golf Ball Juggler Docs](https://github.com/patricksoboyle/MiscProjects/blob/master/MechanicalEngineeringProjects/MechanicalENgineeringProjects%20(2).pdf)
 
@@ -40,11 +38,11 @@ BSTrecursion: Binary search tree functions for counting leaves, number of larger
 
 Sudoku Backtracking: Sudoku puzzle solver. Application of the backtracking algorithm
 
-Animal Guessing Game: User answers yes/no questions, program guesses what animal the user is thinking of. Binary search tree application
+Animal Guessing Game: Program guesses what animal the user is thinking of based on yes/no questions. Binary search tree application. Storage system.
 
-TrainProblem: Similar to the pancake sorting problem. I made algorithms for ordering the train cars
+TrainProblem: Similar to the pancake sorting problem. I made algorithms for sorting train cars on different tracks.
 
-Histogram: A simple histogram generator. Made a clever algorithm for sorting data points into the different "bins" efficiently
+Histogram: A simple histogram generator. Made algorithm for sorting data points into the different ranges efficiently.
 
 [Java Project Files](https://github.com/patricksoboyle/MiscProjects/tree/master/MiscJavaPrgrms)
 
