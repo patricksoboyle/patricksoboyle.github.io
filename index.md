@@ -14,7 +14,7 @@ My introduction to research.
 
 ### Fluid Mechanics Simulation
 
-Plumbing System Designer! Illustrates fluid mechanics principles
+Plumbing System Designer! Illustrates fluid mechanics principles.
 Section 2 of report "Project Description" has overview and pictures
 
 [Final Report](https://github.com/patricksoboyle/FluidMechMathematica/blob/master/FludMechMathematica/NegronO'BoyleFinalReport.pdf)
