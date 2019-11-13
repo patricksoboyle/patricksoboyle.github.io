@@ -14,18 +14,18 @@ My introduction to research.
 
 ### Fluid Mechanics Simulation
 
-Plumbing System Designer! Based on actual fluid mechanics. 
-Section 2 of report "Project Description" provides overview and pictures
+Plumbing System Designer! Illustrates fluid mechanics principles
+Section 2 of report "Project Description" has overview and pictures
 
 [Final Report](https://github.com/patricksoboyle/FluidMechMathematica/blob/master/FludMechMathematica/NegronO'BoyleFinalReport.pdf)
 
 ### Gold Ball Juggler Project & Reverse Engineering (Mechanical Engineering Team Projects)
 
-Made device for juggling golf balls through hoops 2.5 meters off the ground. 
+Made device for juggling golf balls through hoops 2.5 meters off the ground
 
 [Golf Ball Juggler Docs](https://github.com/patricksoboyle/MiscProjects/blob/master/MechanicalEngineeringProjects/MechanicalENgineeringProjects%20(2).pdf)
 
-Analyzed a disposable camera and its design decisions. 
+Analyzed a disposable camera and its design decisions
 
 [Reverse Engineering Report](https://github.com/patricksoboyle/MiscProjects/blob/master/MechanicalEngineeringProjects/MechanicalENgineeringProjects%20(1).pdf)
 
