@@ -1,7 +1,7 @@
 ## CS & Engineering Projects
 
 ### Parking Project
-**Solving community parking issues. Diagrams & program display in paper. Submitting to ACMSE for publication**
+**Solving community parking issues. Diagrams & UI in paper/poster. Submitting to ACMSE for publication**
 
 [ACM Research Paper](https://github.com/patricksoboyle/ParkingProject/blob/master/ACM_Car_Counting_Paper.pdf)
 
@@ -14,8 +14,8 @@ My introduction to research.
 
 ### Fluid Mechanics Simulation
 
-**Plumbing System Designer! Based on actual fluid mechanics. 
-Section 2 of report "Project Description" provides overview and pictures.**
+Plumbing System Designer! Based on actual fluid mechanics. 
+Section 2 of report "Project Description" provides overview and pictures
 
 [Final Report](https://github.com/patricksoboyle/FluidMechMathematica/blob/master/FludMechMathematica/NegronO'BoyleFinalReport.pdf)
 
