@@ -1,9 +1,10 @@
 ## CS & Engineering Projects
 
 ### Parking Project
-**Solving community parking issues. Diagrams & program display in paper**
+**Solving community parking issues. Diagrams & program display in paper. Submitting to ACMSE for publication**
 
-[Work in progress paper](https://github.com/patricksoboyle/MiscProjects/blob/master/ACM_Car_Counting_Paper.pdf)
+[ACM Research Paper](https://github.com/patricksoboyle/ParkingProject/blob/master/ACM_Car_Counting_Paper.pdf)
+[Poster](https://github.com/patricksoboyle/ParkingProject/blob/master/CarCountingPoster.pdf)
 
 ### Survey of Cloud
 My introduction to research.
