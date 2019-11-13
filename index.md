@@ -4,10 +4,12 @@
 **Solving community parking issues. Diagrams & program display in paper. Submitting to ACMSE for publication**
 
 [ACM Research Paper](https://github.com/patricksoboyle/ParkingProject/blob/master/ACM_Car_Counting_Paper.pdf)
+
 [Poster](https://github.com/patricksoboyle/ParkingProject/blob/master/CarCountingPoster.pdf)
 
 ### Survey of Cloud
 My introduction to research.
+
 [Short IEEE research paper](https://github.com/patricksoboyle/MiscProjects/blob/master/Survey_of_Cloud.pdf)
 
 ### Fluid Mechanics Simulation
