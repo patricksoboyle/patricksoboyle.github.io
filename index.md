@@ -3,9 +3,9 @@
 ### Parking Project
 **Solving community parking issues. Diagrams & UI in paper/poster. Submitting to ACMSE for publication**
 
-[ACM Research Paper](https://github.com/patricksoboyle/ParkingProject/blob/master/ACM_Car_Counting_Paper.pdf)
+[ACM Research Paper](https://github.com/patricksoboyle/ParkingProject/blob/master/Presentation/ACM_Car_Counting_Paper.pdf)
 
-[Poster](https://github.com/patricksoboyle/ParkingProject/blob/master/CarCountingPoster.pdf)
+[Poster](https://github.com/patricksoboyle/ParkingProject/blob/master/Presentation/CarCountingPoster.pdf)
 
 ### Survey of Cloud
 My introduction to research.
