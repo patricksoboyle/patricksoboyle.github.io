@@ -1,7 +1,7 @@
 ## CS & Engineering Projects
 
 ### Parking Project
-**Solving community parking issues. Diagrams & UI in paper/poster. Final is published in ACMSE 2020
+Solving community parking issues. Diagrams & UI in paper/poster. Final is published in ACMSE 2020
 
 [ACM Research Paper (Draft)](https://github.com/patricksoboyle/ParkingProject/blob/master/Presentation/acmsepredraft.pdf)
 
